@@ -5,3 +5,5 @@ NPM: 2306275954
 Kelas: PBP C
 
 Hobi: Nonton
+
+Jurusan: Ilmu Komputer Menyala Abangku
